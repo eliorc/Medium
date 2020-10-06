@@ -10,3 +10,7 @@ Comparison between dimensionality reduction techniques. (PCA and AutoEncoders te
 
 **Node2Vec-FIFA17-Example.ipynb**
 Exploration of the Node2Vec algorithm through an example on the FIFA17 dataset taken from Kaggle.
+
+**datamaps.ipynb**
+Implementing the data maps concept on the QNLI dataset using DistilBERT.
+
